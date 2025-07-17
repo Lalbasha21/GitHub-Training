@@ -1,3 +1,4 @@
 Git revert commit
 
 This a sample2 file
+The comparison leacture, Changing in the file 2
