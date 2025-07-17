@@ -1,4 +1,8 @@
 This a sample1 file
 The comparison leacture
+<<<<<<< Updated upstream
 
 This is done by the urgent fix
+=======
+This is stash lecture, change in file1
+>>>>>>> Stashed changes
