@@ -3,3 +3,4 @@ Git revert commit
 This a sample2 file
 The comparison leacture, Changing in the file 2
 This is stash lecture, change in file2
+This is stach for changing the stash message in file 1
